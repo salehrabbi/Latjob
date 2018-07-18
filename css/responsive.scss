@@ -1,0 +1,159 @@
+@media (max-width:1199px) {
+    .navbar-brand > img {
+        width: 218px;
+    }
+    .services-tabs li a {
+        font-size: 20px;
+    }
+    .public-banner h1 {
+	font-size: 68px;
+}
+    .public-banner h2 {
+	font-size: 45px;
+}
+    .public-banner h4 {
+	font-size: 29px;
+}
+    .public-banner p {
+	margin-bottom: 30px;
+}
+    .public-banner form .submit {
+	font-size: 25px;
+}
+}
+
+@media (max-width:991px) {
+    .navbar-brand > img {
+        width: 118px;
+    }
+    .services .icon {
+        height: 200px;
+        width: 200px;
+    }
+    .services .item p {
+        font-size: 17px;
+    }
+    .main-header .navbar-nav > li > a {
+        font-size: 14px;
+        padding: 15px 11px;
+    }
+    .footer-bottom .footer-menu li a {
+        font-size: 20px;
+    }
+    .footer-bottom .footer-menu {
+        text-align: center;
+    }
+    .footer-bottom .copy {
+        font-size: 16px;
+        padding-top: 0;
+        text-align: center;
+    }
+    .navbar-left {
+        margin-top: 10px;
+    }
+}
+
+@media (max-width:767px) {
+    .header-banner h1 {
+        font-size: 45px;
+    }
+    .services-tabs li a {
+        font-size: 16px;
+    }
+    .main-header .navbar-default {
+        display: block;
+    }
+    .main-header .navbar-nav > li > a {
+        padding: 7px 14px;
+    }
+    .navbar-toggle {
+        margin-top: 16px;
+    }
+    .content-artical h3 {
+        font-size: 25px;
+    }
+    .content-artical p {
+        font-size: 16px;
+    }
+    .user-login h1 {
+	font-size: 40px;
+}
+    .public-banner h1 {
+	font-size: 54px;
+}
+    .public-banner h2 {
+	font-size: 35px;
+}
+    .public-banner h4 {
+	font-size: 23px;
+}
+    .public-banner p {
+	font-size: 18px;
+}
+    .public-banner form .submit {
+	font-size: 19px;
+	height: 52px;
+}
+}
+
+
+@media (max-width:575px) {
+    .header-banner h1 {
+        font-size: 38px;
+    }
+    .header-banner {
+        min-height: 450px;
+    }
+    .user-login h1 {
+	font-size: 32px;
+}
+    .public-banner h1 {
+	font-size: 47px;
+}
+    .public-banner h2 {
+	font-size: 31px;
+}
+}
+
+@media (max-width:480px) {
+    .header-banner .button a {
+        font-size: 20px;
+    }
+    .header-banner h1 {
+        font-size: 25px;
+    }
+    .services-tabs li a {
+        font-size: 11px;
+    }
+    .services .tittle {
+        font-size: 35px;
+    }
+    .subsribe .item p {
+        font-size: 29px;
+    }
+    .subsribe .item a.btn {
+        font-size: 20px;
+    }
+    .footer-bottom .footer-menu li a {
+        font-size: 17px;
+    }
+    .content-artical h3 {
+        font-size: 22px;
+    }
+    .user-login h1 {
+	font-size: 22px;
+}
+    .user-login .radios div {
+	width: 100%;
+}
+    .public-banner h1 {
+	font-size: 35px;
+        margin-bottom: 10px;
+}
+    .public-banner h2 {
+	font-size: 25px;
+}
+    .public-banner h4 {
+	font-size: 18px;
+}
+}
